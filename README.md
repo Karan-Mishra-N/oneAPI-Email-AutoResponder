@@ -33,7 +33,11 @@ This project implements a sentiment analysis-driven email auto-responder system 
 5. **Data Preparation:** Create a labeled email dataset for DistilBERT fine-tuning.
 
 **Demo Of The Project :**
+
+
 ![Screenshot 2024-04-06 114208](https://github.com/Karan-Mishra-N/oneAPI-Email-AutoResponder/assets/152774217/34fd39e6-961f-4e7b-b3b6-8b9f7b5093cb)
+
+
 ![Screenshot 2024-04-06 114250](https://github.com/Karan-Mishra-N/oneAPI-Email-AutoResponder/assets/152774217/df93c5c8-be70-448b-8484-389c8488f644)
 
 **Benefits of using Intel oneAPI Toolkits:**
