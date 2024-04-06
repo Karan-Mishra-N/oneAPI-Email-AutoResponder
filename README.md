@@ -32,12 +32,9 @@ This project implements a sentiment analysis-driven email auto-responder system 
 4. **Code Structure:** Explore the code within the `oneAPI_Email_AutoResponder.ipynb` directory for functionalities related to text cleaning, sentiment analysis, and automated response generation.
 5. **Data Preparation:** Create a labeled email dataset for DistilBERT fine-tuning.
 
-**How This Project is Useful and Helpful:**
-
-* **Automating Initial Responses:** This project can automate initial responses to emails, saving time and resources for customer service teams or organizations managing large email volumes. 
-* **Sentiment-Driven Responses:** By analyzing sentiment, the system crafts more appropriate responses, potentially leading to improved customer satisfaction. 
-* **Streamlined Workflows:** Integration with existing email systems allows for automated responses within established workflows, further enhancing efficiency.
-* **Data-Driven Insights:** Sentiment analysis of incoming emails provides valuable data for understanding customer feedback, identifying trends, and making informed decisions.
+**Demo Of The Project :**
+![Screenshot 2024-04-06 114208](https://github.com/Karan-Mishra-N/oneAPI-Email-AutoResponder/assets/152774217/34fd39e6-961f-4e7b-b3b6-8b9f7b5093cb)
+![Screenshot 2024-04-06 114250](https://github.com/Karan-Mishra-N/oneAPI-Email-AutoResponder/assets/152774217/df93c5c8-be70-448b-8484-389c8488f644)
 
 **Benefits of using Intel oneAPI Toolkits:**
 
