@@ -27,7 +27,7 @@ This project implements a sentiment analysis-driven email auto-responder system 
 
 **Getting Started:**
 1. **To clone this repository :** git clone https://github.com/Karan-Mishra-N/oneAPI-Email-AutoResponder.git
-2. **Prerequisites:** Install the required libraries listed in `requirements.txt`.
+2. **Prerequisites:** Install the required libraries listed in `requirements.txt` using : `pip install -r requirements.txt`
 3. **Running the Application:** Execute the `oneAPI_Email_AutoResponder_app.py` file to launch the web application.
 4. **Code Structure:** Explore the code within the `oneAPI_Email_AutoResponder.ipynb` directory for functionalities related to text cleaning, sentiment analysis, and automated response generation.
 5. **Data Preparation:** Create a labeled email dataset for DistilBERT fine-tuning.
