@@ -1,0 +1,17 @@
+# Core libraries
+numpy
+pandas
+nltk
+
+# Text cleaning (oneAPI)
+onemkl
+
+# Sentiment analysis
+transformers
+
+# Streamlit web application
+streamlit
+
+# For DistilBERT fine-tuning (if implemented)
+torch
+huggingface_hub
