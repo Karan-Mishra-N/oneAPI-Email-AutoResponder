@@ -29,7 +29,7 @@ def predict_sentiment_vader(email):
   else:
     return "Neutral"
 
-# Sentiment analysis using pre-trained model (might be less accurate without fine-tuning)
+# Sentiment analysis using pre-trained model
 def predict_sentiment_distilbert(email):
   # Tokenize the email
   tokenized_email = tokenizer(email, padding="max_length", truncation=True)
@@ -43,7 +43,7 @@ def predict_sentiment_distilbert(email):
   # Get the predicted sentiment category (argmax of logits)
   predicted_sentiment = torch.argmax(outputs.logits).detach().item()
 
-  # Define sentiment labels based on the model's output (might need adjustments)
+  # Define sentiment labels based on the model's output 
   sentiment_labels = {0: "Negative", 1: "Neutral", 2: "Positive"}
 
   return sentiment_labels[predicted_sentiment]
