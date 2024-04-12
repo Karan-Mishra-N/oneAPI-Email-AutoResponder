@@ -13,17 +13,6 @@ This project implements a sentiment analysis-driven email auto-responder system 
 * **Automated Responses:** Based on the sentiment analysis, the system can generate pre-defined automated responses tailored to the sentiment of the incoming email. 
 * **User Interface (Streamlit):** Provides a web application for managing configurations, viewing analysis results, and customizing response templates.
 
-**Benefits:**
-
-* **Improved Efficiency:** Automates responses to emails, saving time and resources.
-* **Enhanced Customer Service:** Provides timely and appropriate responses based on sentiment analysis.
-* **Streamlined Workflows:** Integrates with existing email systems to automate responses within workflows.
-* **Data-Driven Insights:** Sentiment analysis from emails provides valuable insights into customer feedback or communication trends.
-
-**Target Audience:**
-
-* Businesses and organizations seeking to automate email responses and gain insights from customer sentiment.
-* Developers interested in building sentiment analysis-based email auto-responders.
 
 **Getting Started:**
 1. **To clone this repository :** git clone https://github.com/Karan-Mishra-N/oneAPI-Email-AutoResponder.git
